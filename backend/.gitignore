@@ -1,15 +1,4 @@
-# --- Security (NEVER UPLOAD THESE) ---
 .env
-.env.local
-.DS_Store
-
-# --- Python Junk ---
+node_modules/
 __pycache__/
-*.pyc
-*.pyo
-*.pyd
-
-# --- Virtual Environments ---
-venv/
 .venv/
-env/
