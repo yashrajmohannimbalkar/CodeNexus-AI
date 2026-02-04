@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+.venv/
+*.pyc
+
+# Node / React
+node_modules/
+dist/
+.next/
+
+# OS files
+.DS_Store
+Thumbs.db
